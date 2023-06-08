@@ -1,4 +1,4 @@
-
+<div style="display: flex; align-items: center; flex-direction: column;">
 <h1 align="center">Hi 👋, I'm Tathya Dixit</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -23,3 +23,5 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tathya-dixit&" alt="Tathya-Dixit" /></p>
     
     [![Tathya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tathya-Dixit&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+    
