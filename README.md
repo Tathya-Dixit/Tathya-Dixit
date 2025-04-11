@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [Tathya-Dixit.github.io/Tathya-Portfolio](Tathya-Dixit.github.io/Tathya-Portfolio)
-
 - 📫 How to reach me **dixit.tathya2003@gmail.com**
 
 
